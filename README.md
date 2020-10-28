@@ -1,4 +1,4 @@
-# CustomCrafting-issues
+# CustomCrafting
 
 **Still in development!**
 **Coming Soon!**
