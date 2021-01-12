@@ -1,5 +1,7 @@
 # CustomCrafting
 
+![banner](https://www.spigotmc.org/attachments/customcrafting-banner-cropped-png.477975.png)
+
 **Still in development!**
 **Coming Soon!**
 
