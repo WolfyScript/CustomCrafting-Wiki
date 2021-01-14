@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="https://www.spigotmc.org/attachments/customcrafting-banner-cropped-png.477975/" alt="CustomCrafting" />
+</div>
+
 # CustomCrafting
 
-**Still in development!**
-**Coming Soon!**
+[**Wiki**](https://github.com/WolfyScript/CustomCrafting-Wiki/wiki)
 
 Submit issues and bugs for CustomCrafting.
 
