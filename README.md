@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.spigotmc.org/attachments/customcrafting-banner-cropped-png.477975/" alt="CustomCrafting" />
+  <img src="https://raw.githubusercontent.com/WolfyScript/CustomCrafting-Wiki/master/cc_banner.png" alt="CustomCrafting" />
 </div>
 
 # CustomCrafting
