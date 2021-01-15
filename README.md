@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WolfyScript/CustomCrafting-Wiki/master/cc_banner.png" alt="CustomCrafting" />
+  <img src="cc_banner.png" alt="CustomCrafting" />
 </div>
 
 # CustomCrafting
