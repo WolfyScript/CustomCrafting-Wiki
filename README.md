@@ -4,6 +4,10 @@
 
 # CustomCrafting
 
+![bStats Servers](https://img.shields.io/bstats/servers/3211)
+![Spiget Downloads](https://img.shields.io/spiget/downloads/55883)
+![Spiget Stars](https://img.shields.io/spiget/stars/55883)
+
 Before creating an issue, please go to the wiki. It should clear up frequently asked questions.
 
 [**Wiki**](https://github.com/WolfyScript/CustomCrafting-Wiki/wiki)
