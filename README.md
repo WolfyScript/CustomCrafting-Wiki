@@ -10,7 +10,8 @@
 
 Before creating an issue, please go to the wiki. It should clear up frequently asked questions.
 
-[**Wiki**](https://github.com/WolfyScript/CustomCrafting-Wiki/wiki)
+- [**Wiki**](https://github.com/WolfyScript/CustomCrafting-Wiki/wiki)  
+- [**JavaDocs**](https://wolfyscript.github.io/CustomCrafting-Wiki/)
 
 For any questions join the [Discord](https://discord.gg/qGhDTSr).
 
