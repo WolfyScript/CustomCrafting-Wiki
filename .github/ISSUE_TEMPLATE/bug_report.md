@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Server (please complete the following information):**
  - Server Software [e.g. Spigot, Paper, Velocity]
  - Minecraft version [e.g. 1.16.5]
- - Java version [e.g. Java 8, 11]
+ - Java version [e.g. Java 8, 11, 16]
 
 
 **Additional context**
