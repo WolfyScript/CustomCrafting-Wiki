@@ -35,6 +35,7 @@ me.wolfyscript.customcrafting.gui.recipebook.buttons
 me.wolfyscript.customcrafting.handlers
 me.wolfyscript.customcrafting.listeners
 me.wolfyscript.customcrafting.listeners.customevents
+me.wolfyscript.customcrafting.network
 me.wolfyscript.customcrafting.placeholderapi
 me.wolfyscript.customcrafting.recipes
 me.wolfyscript.customcrafting.recipes.conditions
@@ -57,3 +58,4 @@ me.wolfyscript.customcrafting.utils.geom
 me.wolfyscript.customcrafting.utils.recipe_item
 me.wolfyscript.customcrafting.utils.recipe_item.extension
 me.wolfyscript.customcrafting.utils.recipe_item.target
+me.wolfyscript.customcrafting.utils.recipe_item.target.adapters
