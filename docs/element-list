@@ -16,6 +16,7 @@ me.wolfyscript.customcrafting.gui.elite_crafting
 me.wolfyscript.customcrafting.gui.elite_crafting.buttons
 me.wolfyscript.customcrafting.gui.item_creator
 me.wolfyscript.customcrafting.gui.item_creator.buttons
+me.wolfyscript.customcrafting.gui.item_creator.tabs
 me.wolfyscript.customcrafting.gui.lists
 me.wolfyscript.customcrafting.gui.lists.buttons
 me.wolfyscript.customcrafting.gui.main_gui
@@ -35,10 +36,12 @@ me.wolfyscript.customcrafting.gui.recipebook.buttons
 me.wolfyscript.customcrafting.handlers
 me.wolfyscript.customcrafting.listeners
 me.wolfyscript.customcrafting.listeners.customevents
+me.wolfyscript.customcrafting.listeners.smelting
 me.wolfyscript.customcrafting.network
 me.wolfyscript.customcrafting.placeholderapi
 me.wolfyscript.customcrafting.recipes
 me.wolfyscript.customcrafting.recipes.conditions
+me.wolfyscript.customcrafting.recipes.data
 me.wolfyscript.customcrafting.recipes.types
 me.wolfyscript.customcrafting.recipes.types.anvil
 me.wolfyscript.customcrafting.recipes.types.blast_furnace
